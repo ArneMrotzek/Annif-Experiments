@@ -1,0 +1,530 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/AA%2057300> a skos:Concept ;
+    skos:notation "AA 57300" ;
+    skos:prefLabel "Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Internationale Allgemeinbibliografien, Nationalbibliografien, umfassende Buchhandelskataloge | Bibliografien der Bibliografien, Universalbibliografien, Bibliothekskataloge, Nationalbibliografien | Allgemeines | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/AE%2076146> a skos:Concept ;
+    skos:notation "AE 76146" ;
+    skos:prefLabel "Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Kongresse, Veranstaltungen, Messen | Allgemeine Nachschlagewerke | Enzyklopädien, allgemeine Nachschlagewerke | Allgemeines | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/AL%2050146> a skos:Concept ;
+    skos:notation "AL 50146" ;
+    skos:prefLabel "Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | International, Europa insgesamt, Deutschland mit einzelnen Ländern | Hochschulwesen einzelner Länder und einzelne Hochschulen | Hochschul- und Universitätswesen | Allgemeines | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/AN%2018146> a skos:Concept ;
+    skos:notation "AN 18146" ;
+    skos:prefLabel "Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Buchgeschichte in einzelnen Ländern | Geschichte des Buches und Buchwesens | Buchwesen | Buch- und Bibliothekswesen, Informationswissenschaft | Allgemeines | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/AN%2080170> a skos:Concept ;
+    skos:notation "AN 80170" ;
+    skos:prefLabel "Darmstadt | Bibliotheken D | Einzelne deutsche Bibliotheken | Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken | Bibliothekswesen | Buch- und Bibliothekswesen, Informationswissenschaft | Allgemeines | Hessische Landes- und Hochschulbibliothek"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/AR%2031460> a skos:Concept ;
+    skos:notation "AR 31460" ;
+    skos:prefLabel "Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Umweltschutz in einzelnen Ländern | Naturschutz und Umweltschutz | Allgemeines | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/BP%206082> a skos:Concept ;
+    skos:notation "BP 6082" ;
+    skos:prefLabel "Evangelische Kirche in Hessen und Nassau | Territorialkirchengeschichte | Evangelische Kirchengeschichte | Theologie und Religionswissenschaften | Quellen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/BP%206084> a skos:Concept ;
+    skos:notation "BP 6084" ;
+    skos:prefLabel "Evangelische Kirche in Hessen und Nassau | Territorialkirchengeschichte | Evangelische Kirchengeschichte | Theologie und Religionswissenschaften | Einzeluntersuchungen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/BP%206094> a skos:Concept ;
+    skos:notation "BP 6094" ;
+    skos:prefLabel "Evangelische Kirche von Kurhessen-Waldeck | Territorialkirchengeschichte | Evangelische Kirchengeschichte | Theologie und Religionswissenschaften | Einzeluntersuchungen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/DI%201300> a skos:Concept ;
+    skos:notation "DI 1300" ;
+    skos:prefLabel "Bildungs- und Kulturpolitik in den Bundesländern | Bildungspolitik, Kulturpolitik | Pädagogik | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/DK%201056> a skos:Concept ;
+    skos:notation "DK 1056" ;
+    skos:prefLabel "Schulsystem in den Bundesländern | Schulpädagogik | Pädagogik | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/DL%202400> a skos:Concept ;
+    skos:notation "DL 2400" ;
+    skos:prefLabel "Berufsbildung in den Bundesländern | Berufsbildung, berufsbildende Schule | Pädagogik | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/DN%202400> a skos:Concept ;
+    skos:notation "DN 2400" ;
+    skos:prefLabel "Lehrer und Lehrerbildung in den Bundesländern | Lehrer und Lehrerbildung | Pädagogik | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/DQ%203715> a skos:Concept ;
+    skos:notation "DQ 3715" ;
+    skos:prefLabel "Hessen | Lehrpläne in den Bundesländern | Deutsche Lehrpläne | Lehrpläne | Pädagogik | Sekundarstufe II: Gymnasiale Oberstufe, Kollegstufe (frühere DDR: Erweiterte Oberschule)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/DW%201016> a skos:Concept ;
+    skos:notation "DW 1016" ;
+    skos:prefLabel "Erwachsenenbildung in den Bundesländern | Erwachsenenbildung und Jugendbildung | Pädagogik | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/GD%203620> a skos:Concept ;
+    skos:notation "GD 3620" ;
+    skos:prefLabel "Rheinfränkisch | Mitteldeutsche Mundarten | Dialektologie, Mundarten, Sondersprachen, Namenkunde | Germanistik. Niederlandistik. Skandinavistik | Hessisch, Nassauisch"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2015055> a skos:Concept ;
+    skos:notation "LB 15055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Allgemeine Aufsatzsammlungen | Gesamtdarstellungen und Sammelwerke | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2024055> a skos:Concept ;
+    skos:notation "LB 24055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Gesamtdarstellungen, einzelnes | Gesamtdarstellungen und Sammelwerke | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2034055> a skos:Concept ;
+    skos:notation "LB 34055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Ethnomuseologie | Ethnologie in der Praxis | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2040055> a skos:Concept ;
+    skos:notation "LB 40055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Gesellschaft allgemein, Alltag und Lebensweise | Soziale und politische Organisation und Praxis | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2047055> a skos:Concept ;
+    skos:notation "LB 47055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Vereine und Verbände, soziale Bewegungen | Soziale und politische Organisation und Praxis | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2058055> a skos:Concept ;
+    skos:notation "LB 58055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Rituale und Bräuche allgemein, Ritualtheorie | Rituale und Bräuche | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2059055> a skos:Concept ;
+    skos:notation "LB 59055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Rituale und Bräuche im Jahreszyklus | Rituale und Bräuche | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2060055> a skos:Concept ;
+    skos:notation "LB 60055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Rituale und Bräuche im Lebenszyklus | Rituale und Bräuche | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2062055> a skos:Concept ;
+    skos:notation "LB 62055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Feste, öffentliche Zeremonien | Rituale und Bräuche | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2067055> a skos:Concept ;
+    skos:notation "LB 67055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Bau- und Wohnformen | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2068055> a skos:Concept ;
+    skos:notation "LB 68055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Wirtschaftsgebäude und Industrieanlagen | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2069055> a skos:Concept ;
+    skos:notation "LB 69055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Sakralbauten und  Sakralanlagen | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2071055> a skos:Concept ;
+    skos:notation "LB 71055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Siedlungsformen und Siedlungsprozesse | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2072055> a skos:Concept ;
+    skos:notation "LB 72055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Einzelne Dörfer, Gemeinden und Städte | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2073055> a skos:Concept ;
+    skos:notation "LB 73055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Stadtforschung | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2074055> a skos:Concept ;
+    skos:notation "LB 74055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Region und Landschaft; Grenzgebiet und Frontier | Raum und Ort: Hausforschung, Gemeinde- und Stadtethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2088055> a skos:Concept ;
+    skos:notation "LB 88055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Keramische Techniken | Produktion und Herstellungsverfahren | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2094055> a skos:Concept ;
+    skos:notation "LB 94055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Textile Techniken | Produktion und Herstellungsverfahren | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LB%2097055> a skos:Concept ;
+    skos:notation "LB 97055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Wirtschaftsgeräte | Geräte und Maschinen | Produktion und Herstellungsverfahren | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2010055> a skos:Concept ;
+    skos:notation "LC 10055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Allgemeines, Theoretisches, Zusammenfassendes | Materielle Kultur und Konsum | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2011055> a skos:Concept ;
+    skos:notation "LC 11055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Hausrat, Möbel | Materielle Kultur und Konsum | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2012055> a skos:Concept ;
+    skos:notation "LC 12055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Kleidung, Tracht, Mode | Materielle Kultur und Konsum | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2017055> a skos:Concept ;
+    skos:notation "LC 17055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Nahrung, Nahrungszubereitung, Ess- und Trinkgewohnheiten | Materielle Kultur und Konsum | Materielle Kultur und Wirtschaftsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2029055> a skos:Concept ;
+    skos:notation "LC 29055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Religiöse Praktiken und Vorstellungen - Einzelstudien | Religionsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2031055> a skos:Concept ;
+    skos:notation "LC 31055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Totenrituale und Jenseitsvorstellungen | Religionsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2039055> a skos:Concept ;
+    skos:notation "LC 39055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Christliche Objekte, Objekte der Volksfrömmigkeit | Religionsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2041055> a skos:Concept ;
+    skos:notation "LC 41055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Magisch-religiöse Spezialistinnen und Spezialisten | Religionsethnologie | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2054055> a skos:Concept ;
+    skos:notation "LC 54055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Anthropologie der Pflanzenwelt | Wissen und Wahrnehmung | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2056055> a skos:Concept ;
+    skos:notation "LC 56055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Krankheit und Medizin, Gesundheit | Wissen und Wahrnehmung | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2064055> a skos:Concept ;
+    skos:notation "LC 64055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Orts-, Flur-, Straßen-, Hausnamen | Namen | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2066055> a skos:Concept ;
+    skos:notation "LC 66055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Allgemeines, Theoretisches, Zusammenfassendes | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2072055> a skos:Concept ;
+    skos:notation "LC 72055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Sprichwort und Redensart | Sprachformeln | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2073055> a skos:Concept ;
+    skos:notation "LC 73055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Spruch und Inschrift | Sprachformeln | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2076055> a skos:Concept ;
+    skos:notation "LC 76055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Allgemeines, Theoretisches, Zusammenfassendes | Erzählformen | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2078055> a skos:Concept ;
+    skos:notation "LC 78055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Schwank, Beispiel und Anekdote | Erzählformen | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2081055> a skos:Concept ;
+    skos:notation "LC 81055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Märchen | Erzählformen | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2082055> a skos:Concept ;
+    skos:notation "LC 82055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Sage | Erzählformen | Literaturethnologie | Sprache und Literatur | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2086055> a skos:Concept ;
+    skos:notation "LC 86055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Lied und Gesang | Theater-, Musik- und Kunstethnologie | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2087055> a skos:Concept ;
+    skos:notation "LC 87055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Musik, Klang, Akkustik | Theater-, Musik- und Kunstethnologie | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LC%2088055> a skos:Concept ;
+    skos:notation "LC 88055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Mitteleuropa | Europa | Tanz | Theater-, Musik- und Kunstethnologie | Kunst und Wissen | Sozial- und Kulturanthropologie. Empirische Kulturwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LH%2029924> a skos:Concept ;
+    skos:notation "LH 29924" ;
+    skos:prefLabel "Westliche Länder: | Deutschland | Lexika der Museen | Museumskunde. Museumskataloge | Allgemeines. Allgemeine Kunstgeschichte | Kunstgeschichte | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2010680> a skos:Concept ;
+    skos:notation "LK 10680" ;
+    skos:prefLabel "Hessen | Länder (Verwaltungseinheiten) | Deutsche Kunstgeschichte nach Ländern und Landschaften | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2011140> a skos:Concept ;
+    skos:notation "LK 11140" ;
+    skos:prefLabel "Einzelne deutsche Länder | Kunsttopografie Deutschlands | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2080680> a skos:Concept ;
+    skos:notation "LK 80680" ;
+    skos:prefLabel "Hessen | Länder (Verwaltungseinheiten) | Geschichte der deutschen Architektur nach Ländern und Landschaften | Architektur | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2080687> a skos:Concept ;
+    skos:notation "LK 80687" ;
+    skos:prefLabel "Hessen | Länder (Verwaltungseinheiten) | Geschichte der deutschen Architektur nach Ländern und Landschaften | Architektur | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | 19. und 20. Jahrhundert"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2082280> a skos:Concept ;
+    skos:notation "LK 82280" ;
+    skos:prefLabel "Hessen | Länder (Verwaltungseinheiten) | Geschichte der deutschen Skulptur nach Ländern und Landschaften | Skulptur (Plastik) | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2084280> a skos:Concept ;
+    skos:notation "LK 84280" ;
+    skos:prefLabel "Hessen | Länder (Verwaltungseinheiten) | Geschichte der deutschen Malerei nach Ländern und Landschaften | Malerei | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2085840> a skos:Concept ;
+    skos:notation "LK 85840" ;
+    skos:prefLabel "Hessen | Länder | Geschichte der deutschen Zeichnung und Grafik nach Ländern und Landschaften | Zeichnung und Grafik | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2086740> a skos:Concept ;
+    skos:notation "LK 86740" ;
+    skos:prefLabel "Hessen | Länder | Geschichte der deutschen Buchmalerei nach Ländern und Landschaften | Buchmalerei | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2091840> a skos:Concept ;
+    skos:notation "LK 91840" ;
+    skos:prefLabel "Hessen, Thüringen, Sachsen | Länder | Einrichtung und Ausstattung in deutschen Ländern und Landschaften | Einrichtung und Ausstattung | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LK%2093140> a skos:Concept ;
+    skos:notation "LK 93140" ;
+    skos:prefLabel "Hessen, Thüringen, Sachsen | Länder | Kunstgewerbe in deutschen Ländern und Landschaften | Kunstgewerbe | Deutsche Kunstgeschichte nach Gattungen | Deutschland | Kunst nach Ländern bzw. Kontinenten | Kunstgeschichte | allgemein"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/LV%2052265> a skos:Concept ;
+    skos:notation "LV 52265" ;
+    skos:prefLabel "Mitteldeutsche | Deutsche | Völker mit indogermanischen Sprachen | Volkslieder der Landschaften und Völker | Volksgesang | Volksmusik in Europa und Amerika - Tonträger | Musikalische Volks- und Völkerkunde: Tonträger | III. Tonträger | Musikwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/MG%2021050> a skos:Concept ;
+    skos:notation "MG 21050" ;
+    skos:prefLabel "Hessen | Bundesrepublik Deutschland | Westeuropa, Mitteleuropa | Europa, Nordamerika | Politische Systeme einzelner Länder | Politologie | Verfassungs- und Gesetzestexte"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/MY%204055> a skos:Concept ;
+    skos:notation "MY 4055" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland (insgesamt) | Mitteleuropa | Europa | Gesamtdarstellungen zur Militärwissenschaft und zum Militärwesen | Allgemeines zur Militärwissenschaft | Militärwissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ND%201550> a skos:Concept ;
+    skos:notation "ND 1550" ;
+    skos:prefLabel "Archivinventare und Beschreibungen einzelner Archive Deutschlands und der ehemaligen deutschen Ostgebiete | Archivkunde | Historische Hilfswissenschaften | Geschichte | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NN%202884> a skos:Concept ;
+    skos:notation "NN 2884" ;
+    skos:prefLabel "Einzelne Persönlichkeiten | Karl V. (1519 - 1555) | Geschichte des Reichs (1517 - 1555) | Zeitalter der Reformation (1517 - 1555) | Neuere Geschichte | Geschichte | Philipp (Hessen, Landgraf, I.)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NQ%206930> a skos:Concept ;
+    skos:notation "NQ 6930" ;
+    skos:prefLabel "Einzelne Länder | Deutsche Länder seit 1945 | Bundesrepublik Deutschland (bis 1990) | Deutsche Geschichte seit 1945 | Geschichte seit 1918 | Geschichte | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203790> a skos:Concept ;
+    skos:notation "NR 3790" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Quellen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203795> a skos:Concept ;
+    skos:notation "NR 3795" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Darstellungsreihen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203800> a skos:Concept ;
+    skos:notation "NR 3800" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Landesgeschichte"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203900> a skos:Concept ;
+    skos:notation "NR 3900" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Landschaftsgeschichte"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203950> a skos:Concept ;
+    skos:notation "NR 3950" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Einzelbeiträge"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203960> a skos:Concept ;
+    skos:notation "NR 3960" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Kirchengeschichte (allgemein)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%203965> a skos:Concept ;
+    skos:notation "NR 3965" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Kloster- und Stiftsgeschichte"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NR%204270> a skos:Concept ;
+    skos:notation "NR 4270" ;
+    skos:prefLabel "Hessen (Hessen-Darmstadt, Nassau, Hessen-Kassel) | Deutsche Landesgeschichte im Einzelnen (einschl. ehemaliger deutscher Gebiete) | Landes- und Stadtgeschichte (Allgemeine, Deutsche und Österreichische Landes- und Stadtgeschichte, Ausländische Stadtgeschichte, Geschichte der Auslanddeutschen) | Geschichte | Burgen, Schlösser, Residenzen und Herrensitze"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2060060> a skos:Concept ;
+    skos:notation "NZ 60060" ;
+    skos:prefLabel "Allgemeines | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Geschichte der regionalhistorischen Forschung in Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2060290> a skos:Concept ;
+    skos:notation "NZ 60290" ;
+    skos:prefLabel "Vor- und Frühgeschichte, Römerzeit und Völkerwanderung, Archäologie | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Geschichte der Archäologie in Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2060300> a skos:Concept ;
+    skos:notation "NZ 60300" ;
+    skos:prefLabel "Politische Geschichte Hessens | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Gesamtdarstellungen, epochenübergreifende Darstellungen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061000> a skos:Concept ;
+    skos:notation "NZ 61000" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Landgrafschaft Hessen (1247-1567)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061010> a skos:Concept ;
+    skos:notation "NZ 61010" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Landgrafschaft Hessen-Kassel (1567-1806)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061020> a skos:Concept ;
+    skos:notation "NZ 61020" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Landgrafschaft Hessen-Darmstadt (1567-1806)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061030> a skos:Concept ;
+    skos:notation "NZ 61030" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Hessische Nebenlinien"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061250> a skos:Concept ;
+    skos:notation "NZ 61250" ;
+    skos:prefLabel "Großherzogtum Hessen-Darmstadt (1806-1918) | Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Allgemeine Darstellungen. Einzelnes"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061260> a skos:Concept ;
+    skos:notation "NZ 61260" ;
+    skos:prefLabel "Großherzogtum Hessen-Darmstadt (1806-1918) | Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Demagogenverfolgung"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061270> a skos:Concept ;
+    skos:notation "NZ 61270" ;
+    skos:prefLabel "Großherzogtum Hessen-Darmstadt (1806-1918) | Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Revolution 1848"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061300> a skos:Concept ;
+    skos:notation "NZ 61300" ;
+    skos:prefLabel "Kurfürstentum Hessen-Kassel (1814-1866) | Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Allgemeine Darstellungen. Einzelnes"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061350> a skos:Concept ;
+    skos:notation "NZ 61350" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Herzogtum Nassau (1806-1866)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061400> a skos:Concept ;
+    skos:notation "NZ 61400" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Provinz Hessen-Nassau (1866-1933)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2061500> a skos:Concept ;
+    skos:notation "NZ 61500" ;
+    skos:prefLabel "Geschichte einzelner hessischer Territorien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Volksstaat Hessen (1918-1933)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2064250> a skos:Concept ;
+    skos:notation "NZ 64250" ;
+    skos:prefLabel "Geschichte und Beschreibung einzelner Regionen | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Nordhessen (Nordhessisches Bergland)"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2064850> a skos:Concept ;
+    skos:notation "NZ 64850" ;
+    skos:prefLabel "Geschichte und Beschreibung einzelner Regionen | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Frühere hessische Gebiete"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2065000> a skos:Concept ;
+    skos:notation "NZ 65000" ;
+    skos:prefLabel "Regierende Häuser | Geschichte einzelner Familien | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Hessen gesamt"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2067000> a skos:Concept ;
+    skos:notation "NZ 67000" ;
+    skos:prefLabel "Biografien hessischer Persönlichkeiten | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Übergreifende Darstellungen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/NZ%2067100> a skos:Concept ;
+    skos:notation "NZ 67100" ;
+    skos:prefLabel "Biografien hessischer Persönlichkeiten | Landesgeschichte Hessen | Regionale Landeskunde | Geschichte | Einzelne Personen A-Z"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/PL%20451> a skos:Concept ;
+    skos:notation "PL 451" ;
+    skos:prefLabel "Das Landesverfassungsrecht | Staatsrecht und Verfassungsrecht | Staatsrecht und Verfassungsgeschichte | Rechtswissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/PN%20325> a skos:Concept ;
+    skos:notation "PN 325" ;
+    skos:prefLabel "Das Kommunalrecht der einzelnen Länder, Gemeindeverfassung | Kommunalrecht (BF Gemeinderecht) | Besonderes Verwaltungsrecht | Verwaltungswissenschaften und Verwaltungsrecht | Rechtswissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/PN%20365> a skos:Concept ;
+    skos:notation "PN 365" ;
+    skos:prefLabel "Das materielle Recht der öffentlichen Sicherheit und Ordnung der Bundesländer | Recht der öffentlichen Sicherheit und Ordnung | Besonderes Verwaltungsrecht | Verwaltungswissenschaften und Verwaltungsrecht | Rechtswissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/PN%20385> a skos:Concept ;
+    skos:notation "PN 385" ;
+    skos:prefLabel "Polizeiorganisation | Recht der öffentlichen Sicherheit und Ordnung | Besonderes Verwaltungsrecht | Verwaltungswissenschaften und Verwaltungsrecht | Rechtswissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/PW%202732> a skos:Concept ;
+    skos:notation "PW 2732" ;
+    skos:prefLabel "Partikularrechtsquellen der Neuzeit einschließlich zeitgenössischer Darstellungen und Erläuterungen | Quellen | Deutsche und ausländische Rechtsgeschichte | Rechtswissenschaft | Hessen, Nassau"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/PW%208290> a skos:Concept ;
+    skos:notation "PW 8290" ;
+    skos:prefLabel "Rechtsgeschichte der deutschen Länder | Deutsche und ausländische Rechtsgeschichte | Rechtswissenschaft | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/QG%20330> a skos:Concept ;
+    skos:notation "QG 330" ;
+    skos:prefLabel "Süddeutschland | Bundesrepublik Deutschland | Deutschland | Europa | Wirtschaftskunde und Allgemeines. Länderstatistisches und regionalstatistisches Material. Wirtschaftspolitik (einschließlich Stellungnahmen dazu) in einzelnen Ländern | Wirtschaftswissenschaften | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/TP%205066> a skos:Concept ;
+    skos:notation "TP 5066" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Regionale Geologie | Geowissenschaften | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/TP%205070> a skos:Concept ;
+    skos:notation "TP 5070" ;
+    skos:prefLabel "Hessen | Mittel- und Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Regionale Geologie | Geowissenschaften | Westhessisches Berg- und Beckenland"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/TP%205072> a skos:Concept ;
+    skos:notation "TP 5072" ;
+    skos:prefLabel "Hessen | Mittel- und Westdeutschland | Deutschland (Westliche Länder) | Deutschland | Mitteleuropa | Europa | Regionale Geologie | Geowissenschaften | Wetterau und Rhein-Main-Gebiet"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/WI%207450> a skos:Concept ;
+    skos:notation "WI 7450" ;
+    skos:prefLabel "Mittel- und Westdeutschland | Deutschland | Deutsches Sprachgebiet | Mitteleuropa | Europa | Regionale Ökologie und Biogeografie: Vegetation und Tierwelt einzelner Gebiete. | Regionale Ökologie und Biogeografie | Ökologie | Biologie | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/WP%201112> a skos:Concept ;
+    skos:notation "WP 1112" ;
+    skos:prefLabel "Deutschland <westliche Länder> | Deutsches Sprachgebiet insgesamt, Deutschland und angrenzende Gebiete Mitteleuropas und Zentraleuropas (Deutschland, Österreich, Schweiz) insgesamt | Paläarktis, Eurosibirien, Europa | Regional begrenzte Abhandlungen zur Fauna insgesamt. Bestimmungsbücher bestimmter Gebiete | Spezielle (taxonomische) Zoologie | Biologie | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/WR%202612> a skos:Concept ;
+    skos:notation "WR 2612" ;
+    skos:prefLabel "Deutschland <westliche Länder> | Deutsches Sprachgebiet insgesamt, Deutschland und angrenzende Gebiete Mitteleuropas und Zentraleuropas (Deutschland, Österreich, Schweiz) insgesamt | Paläarktis, Eurosibirien, Europa | Faunistik der Fische. Regional begrenzte Bestimmungsbücher. Ichthyologische Faunen einzelner Gebiete | Pisces (Fische), Gesamtdarstellungen der Fischkunde | Gnathostomata (Kiefermäuler) | Vertebrata, Craniota (Wirbeltiere) | Chordata (Chordatiere) | Bilateria (Bilateralsymmetrische Tiere) | Spezielle (taxonomische) Zoologie | Biologie | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/WR%208112> a skos:Concept ;
+    skos:notation "WR 8112" ;
+    skos:prefLabel "Deutschland <westliche Länder> | Deutsches Sprachgebiet insgesamt, Deutschland und angrenzende Gebiete Mitteleuropas und Zentraleuropas (Deutschland, Österreich, Schweiz) insgesamt | Paläarktis, Eurosibirien, Europa | Regionalschlüssel zur Einordnung von floristischer und faunistischer Literatur | Reptilia, Faunistik und regional begrenzte Bestimmungsbücher | Amniota (Amnioten) | Vertebrata, Craniota (Wirbeltiere) | Chordata (Chordatiere) | Bilateria (Bilateralsymmetrische Tiere) | Spezielle (taxonomische) Zoologie | Biologie | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/WU%204012> a skos:Concept ;
+    skos:notation "WU 4012" ;
+    skos:prefLabel "Deutschland <westliche Länder> | Deutsches Sprachgebiet insgesamt, Deutschland und angrenzende Gebiete Mitteleuropas und Zentraleuropas (Deutschland, Österreich, Schweiz) insgesamt | Paläarktis, Eurosibirien, Europa | Spezielle Anthropologie | Anthropologie | Biologie | Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZA%2080814> a skos:Concept ;
+    skos:notation "ZA 80814" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Agrargeschichte einzelner Länder | Agrargeschichte | Agrargeschichte und -geografie | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZB%2052914> a skos:Concept ;
+    skos:notation "ZB 52914" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Dorf und Dorfentwicklung | Raum- und Siedlungssoziologie | Land- und Agrarsoziologie | Wirtschafts- und Sozialwissenschaften | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2050014> a skos:Concept ;
+    skos:notation "ZC 50014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Allgemeines | Gartenbau | Garten-, Obst- und Weinbau | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2053214> a skos:Concept ;
+    skos:notation "ZC 53214" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Gärten und Parks | Garten- und Landschaftsgestaltung | Gartenbau | Garten-, Obst- und Weinbau | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2054014> a skos:Concept ;
+    skos:notation "ZC 54014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Allgemeines | Obstbau | Garten-, Obst- und Weinbau | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2058014> a skos:Concept ;
+    skos:notation "ZC 58014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Allgemeines | Weinbau | Garten-, Obst- und Weinbau | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2058414> a skos:Concept ;
+    skos:notation "ZC 58414" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Geschichte des Weinbaus | Weinbau | Garten-, Obst- und Weinbau | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2073014> a skos:Concept ;
+    skos:notation "ZC 73014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Forstgeografie | Forstwesen | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2073514> a skos:Concept ;
+    skos:notation "ZC 73514" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Forstwirtschaft einzelner Länder/Gebiete | Forstwesen | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZC%2085814> a skos:Concept ;
+    skos:notation "ZC 85814" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Forstgeschichte einzelner Länder / Gebiete | Forstgeschichte | Forstwesen | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZD%2011014> a skos:Concept ;
+    skos:notation "ZD 11014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Allgemeines | Tierzucht | Nutztierwissenschaften | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZD%2053014> a skos:Concept ;
+    skos:notation "ZD 53014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Wohnbauten,  Bauernhof | Landbautechnik | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZD%2064014> a skos:Concept ;
+    skos:notation "ZD 64014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Allgemeines | Wasserwirtschaft | Kulturtechnik | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZD%2067014> a skos:Concept ;
+    skos:notation "ZD 67014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Trinkwasserversorgung | Wasserwirtschaft | Kulturtechnik | Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZG%209314> a skos:Concept ;
+    skos:notation "ZG 9314" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Technik in einzelnen Ländern | Technik allgemein | Technik | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZH%209014> a skos:Concept ;
+    skos:notation "ZH 9014" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Allgemeines und Länderliste | Raumplanung,Städtebau, Stadtplanung | Architektur | Technik | Rheinland-Pfalz, Saarland, Hessen"@german .
+
+<https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/ZO%205914> a skos:Concept ;
+    skos:notation "ZO 5914" ;
+    skos:prefLabel "Deutschland | Mitteleuropa | Europa | Schienenverkehr in einzelnen Ländern | Schienenverkehr, Eisenbahnwesen | Verkehr, Transport | Technik | Rheinland-Pfalz, Saarland, Hessen"@german .
+
